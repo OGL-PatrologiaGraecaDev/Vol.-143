@@ -1,0 +1,25 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/143/njp.32101010942884/003.png"; bbox 0 0 1909 3073; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 717 1552 930 1574">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 717 1552 930 1574">
+     <span class='ocr_line' id='line_1_1' title="bbox 717 1552 930 1574; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 717 1552 930 1574; x_wconf 61' lang='lat' dir='ltr'>’J‘Mﬁ&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 558 1232 1120 1882">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 611 1296 1065 1730">
+     <span class='ocr_line' id='line_1_2' title="bbox 723 1296 953 1571; baseline 0.004 -79"><span class='ocrx_word' id='word_1_2' title='bbox 723 1296 953 1571; x_wconf 72' lang='grc'><strong>,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 611 1423 1065 1589; baseline -0.035 0"><span class='ocrx_word' id='word_1_3' title='bbox 611 1423 1065 1589; x_wconf 53' lang='grc' dir='ltr'>πι</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 624 1612 1054 1666; baseline -0.023 -1"><span class='ocrx_word' id='word_1_4' title='bbox 624 1620 734 1666; x_wconf 83' lang='lat' dir='ltr'>PR1</span> <span class='ocrx_word' id='word_1_5' title='bbox 752 1619 797 1662; x_wconf 91' lang='lat' dir='ltr'>N</span> <span class='ocrx_word' id='word_1_6' title='bbox 812 1618 848 1660; x_wconf 90' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_7' title='bbox 863 1613 991 1659; x_wconf 85' lang='lat' dir='ltr'>ETO</span> <span class='ocrx_word' id='word_1_8' title='bbox 1008 1612 1054 1656; x_wconf 93' lang='lat' dir='ltr'>N</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 648 1682 1033 1730; baseline -0.023 0"><span class='ocrx_word' id='word_1_9' title='bbox 648 1687 842 1730; x_wconf 83' lang='lat' dir='ltr'>UNIVE</span> <span class='ocrx_word' id='word_1_10' title='bbox 855 1684 920 1725; x_wconf 83' lang='lat' dir='ltr'>RS</span> <span class='ocrx_word' id='word_1_11' title='bbox 934 1682 1033 1723; x_wconf 84' lang='lat' dir='ltr'>ITY</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 716 1752 983 1794">
+     <span class='ocr_line' id='line_1_6' title="bbox 716 1752 983 1794; baseline -0.015 0"><span class='ocrx_word' id='word_1_12' title='bbox 716 1752 983 1794; x_wconf 80' lang='lat' dir='ltr'>LIBRARY</span> 
+     </span>
+    </p>
+   </div>
+  </div>
